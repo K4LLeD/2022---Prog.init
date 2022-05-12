@@ -1,0 +1,1 @@
+print("Primeiro commit via vscode linkado ao git")
